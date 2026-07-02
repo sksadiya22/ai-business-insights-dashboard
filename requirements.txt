@@ -1,0 +1,7 @@
+pandas
+mysql-connector-python
+streamlit
+python-dotenv
+google-generativeai
+numpy
+pytest
